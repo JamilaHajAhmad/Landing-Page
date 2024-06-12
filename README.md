@@ -1,21 +1,15 @@
 # Landing Page💻😍
 Project that uses **JavaScript** to create a navigational experience for the user.🙎‍♀️🙎‍♂️
 
-***
-
 ## HTML
 ![alt text](/images/image.png)
 
 As usual, the structure of the web page is built by **HTML**, check *index.html* and figure it out.✨
 
-***
-
 ## CSS
 ![alt text](/images/image-1.png)
 
 Design mission is accomplished by **CSS**, visit *css* folder and examine each file, specially *style.css*.👌
-
-***
 
 ## JavaScript
 ![alt text](/images/image-2.png)
